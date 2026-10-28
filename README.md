@@ -11,7 +11,7 @@ Features
 - Easy to customise: change the tickers and date range at the top of the script
 
 Example Output
-<!-- Replace with a screenshot of your chart, e.g. save it as images/comparison_chart.png -->
+images/portfolio_tracker.png
 
 Comparison chart
 
@@ -24,8 +24,8 @@ matplotlib: charting
 Getting Started
 1. Clone the repository
 bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/aplaws6/portfolio_tracker.git
+cd aplaws6
 2. (Recommended) Create a virtual environment
 bash
 python -m venv venv
